@@ -2,8 +2,7 @@
 
 Descrição
 
-<a>Dashboard simples no Power BI para análise de dados de compras (vendas por estado, produtos e tempo). Inclui visuais interativos como gráficos, cartões, filtros e mapas. Baseado no tutorial "Introdução ao Power BI - Do ZERO ao DASHBOARD" do canal Hashtag Treinamentos .
-Arquivo principal: DashboardCompras.pbix.
+<a>Dashboard simples no Power BI para análise de dados de compras (vendas por estado, produtos e tempo). Inclui visuais interativos como gráficos, cartões, filtros e mapas. Baseado no tutorial "Introdução ao Power BI - Do ZERO ao DASHBOARD" do canal Hashtag Treinamentos.<a>
 
 
 Tecnologias Usadas
