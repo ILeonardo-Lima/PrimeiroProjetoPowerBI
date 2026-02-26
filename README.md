@@ -1,11 +1,11 @@
-<h1>Projeto Power BI: Dashboard de Compras<h1>
+##Projeto Power BI: Dashboard de Compras
 
-Descrição
+##Descrição
 
-<a>Dashboard simples no Power BI para análise de dados de compras (vendas por estado, produtos e tempo). Inclui visuais interativos como gráficos, cartões, filtros e mapas. Baseado no tutorial "Introdução ao Power BI - Do ZERO ao DASHBOARD" do canal Hashtag Treinamentos.<a>
+Dashboard simples no Power BI para análise de dados de compras (vendas por estado, produtos e tempo). Inclui visuais interativos como gráficos, cartões, filtros e mapas. Baseado no tutorial "Introdução ao Power BI - Do ZERO ao DASHBOARD" do canal Hashtag Treinamentos.
 
 
-Tecnologias Usadas
+##Tecnologias Usadas
 
 - Power BI Desktop (versão gratuita).
 - DAX para medidas.
@@ -13,7 +13,7 @@ Tecnologias Usadas
 - Visuais: Gráficos de barras, mapas (Azure Maps), slicers e cartões.
 
 
-Créditos
+##Créditos
 
 - Tutorial: Hashtag Treinamentos.
 - Dados fictícios para fins educacionais.
