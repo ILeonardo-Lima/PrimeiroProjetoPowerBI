@@ -1,4 +1,4 @@
-##Projeto Power BI: Dashboard de Compras
+<h2>Projeto Power BI: Dashboard de Compras</h2>
 
 ##Descrição
 
