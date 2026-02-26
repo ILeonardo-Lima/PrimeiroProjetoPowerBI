@@ -5,13 +5,13 @@ Dashboard simples no Power BI para análise de dados de compras (vendas por esta
 Arquivo principal: DashboardCompras.pbix.
 Tecnologias Usadas
 
-<p>Power BI Desktop (versão gratuita).</p>
-<p>DAX para medidas.</p>
-<p>PPower Query para importação de dados (de CSV/Excel).</p>
-<p>PVisuais: Gráficos de barras, mapas (Azure Maps), slicers e cartões.</p>
+Power BI Desktop (versão gratuita).
+DAX para medidas.
+PPower Query para importação de dados (de CSV/Excel).
+PVisuais: Gráficos de barras, mapas (Azure Maps), slicers e cartões.
 
 
-<p>PCréditos</p>
+PCréditos
 
-<p>PTutorial: Hashtag Treinamentos.</p>
-<p>PDados fictícios para fins educacionais.</p>
+PTutorial: Hashtag Treinamentos.
+PDados fictícios para fins educacionais.
